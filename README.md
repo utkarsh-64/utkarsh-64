@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-64&show_icons=true&theme=transparent&locale=en" alt="utkarsh-64" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh-64&theme=transparent&hide_border=true" alt="utkarsh-64" /></p>
+<p><img align="left" src="https://github-readme-streak-stats-eight.vercel.app?user=utkarsh-64&theme=github-dark-blue" alt="utkarsh-64" /></p>
