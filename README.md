@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarsh-64&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-64" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="github-trophies.vercel.app/?username=utkarsh-64&theme=darkhub" alt="utkarsh-64" /></a> </p>
+<p align="center"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=utkarsh-64&theme=darkhub" alt="utkarsh-64" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarsh-64](https://github.com/utkarsh-64)
 
