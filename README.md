@@ -3,7 +3,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarsh-64&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-64" /> </p>
 
-<p align="center"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=utkarsh-64&theme=darkhub" alt="utkarsh-64" /></a> </p>
+<!--Trophies with hidden achievements-->
+<!--<p align="center"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=utkarsh-64&theme=darkhub&row=1&column=7" alt="utkarsh-64" /></a> </p>-->
+
+<!--Trophies with selected ranks-->
+<!--
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=utkarsh-64&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A,B,C"  alt="github profile trophy"/>
+</div>--> 
+
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=utkarsh-64&theme=radical&no-bg=true&no-frame=true&row=1&column=7"  alt="github profile trophy"/>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarsh-64](https://github.com/utkarsh-64)
 
